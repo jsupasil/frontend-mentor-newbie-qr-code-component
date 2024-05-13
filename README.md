@@ -43,7 +43,7 @@ I learned how to design flex box and css properties using tailwind CSS framework
 
 ### Continued development
 
-I think the qr code can be link to the website by using &lt a &gt tag.
+I think the qr code can be link to the website by using \< a \> tag.
 
 ### Useful resources
 
